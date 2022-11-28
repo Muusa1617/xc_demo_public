@@ -1,0 +1,1523 @@
+2022-11-27 20:20:52 INFO [base.py:28]: flask app init
+2022-11-27 20:20:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:20:52 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:80
+2022-11-27 20:20:52 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-27 20:21:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:21:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:21:06 INFO [decorator.py:59]: / time cost=0.007s
+2022-11-27 20:21:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:21:06] "GET / HTTP/1.1" 200 -
+2022-11-27 20:21:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:21:06] "GET /static/css/index.css HTTP/1.1" 200 -
+2022-11-27 20:21:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:21:06] "GET /static/favicon.ico HTTP/1.1" 200 -
+2022-11-27 20:21:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:21:06] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:25:36 INFO [base.py:28]: flask app init
+2022-11-27 20:25:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:25:36 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-27 20:25:36 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-27 20:25:42 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:25:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:25:42 INFO [decorator.py:59]: / time cost=0.005s
+2022-11-27 20:25:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:25:42] "GET / HTTP/1.1" 200 -
+2022-11-27 20:25:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:25:42] "GET /static/css/index.css HTTP/1.1" 200 -
+2022-11-27 20:25:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:25:42] "GET /static/favicon.ico HTTP/1.1" 200 -
+2022-11-27 20:25:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:25:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:14 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:36:14 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:36:14 INFO [decorator.py:59]: / time cost=0.002s
+2022-11-27 20:36:14 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:14] "GET / HTTP/1.1" 200 -
+2022-11-27 20:36:14 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:14] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:36:14 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:14] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:14 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:14] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:36:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:36:15 INFO [decorator.py:59]: / time cost=0.001s
+2022-11-27 20:36:15 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:15] "GET / HTTP/1.1" 200 -
+2022-11-27 20:36:15 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:15] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:36:15 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:15 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:16 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:36:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:36:16 INFO [decorator.py:59]: / time cost=0.001s
+2022-11-27 20:36:16 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:16] "GET / HTTP/1.1" 200 -
+2022-11-27 20:36:16 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:16] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:36:16 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:16] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:36:16 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:36:16] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:07 INFO [base.py:28]: flask app init
+2022-11-27 20:37:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:07 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-27 20:37:07 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-27 20:37:07 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-27 20:37:07 INFO [base.py:28]: flask app init
+2022-11-27 20:37:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:07 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-27 20:37:07 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-27 20:37:10 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:37:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:10 INFO [decorator.py:59]: / time cost=0.007s
+2022-11-27 20:37:10 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:10] "GET / HTTP/1.1" 200 -
+2022-11-27 20:37:10 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:10] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:37:10 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:10] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:10 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:10] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:37:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:42 INFO [decorator.py:59]: / time cost=0.002s
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "GET / HTTP/1.1" 200 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:37:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:42 INFO [decorator.py:59]: / time cost=0.002s
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "GET / HTTP/1.1" 200 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:42] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:56 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:37:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:37:56 INFO [decorator.py:59]: / time cost=0.002s
+2022-11-27 20:37:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:56] "GET / HTTP/1.1" 200 -
+2022-11-27 20:37:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:56] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+2022-11-27 20:37:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:56] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:37:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:37:56] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:39:55 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:39:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:39:55 INFO [decorator.py:59]: / time cost=0.003s
+2022-11-27 20:39:55 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:55] "GET / HTTP/1.1" 200 -
+2022-11-27 20:39:55 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:55] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:39:55 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:55] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:39:56 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:39:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:39:56 INFO [decorator.py:59]: / time cost=0.002s
+2022-11-27 20:39:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:56] "GET / HTTP/1.1" 200 -
+2022-11-27 20:39:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:56] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:39:56 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:39:56] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:40:05 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:40:05 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:40:05 INFO [decorator.py:59]: / time cost=0.001s
+2022-11-27 20:40:05 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:05] "GET / HTTP/1.1" 200 -
+2022-11-27 20:40:05 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:05] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:40:05 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:05] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:40:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:40:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:40:06 INFO [decorator.py:59]: / time cost=0.001s
+2022-11-27 20:40:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:06] "GET / HTTP/1.1" 200 -
+2022-11-27 20:40:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:06] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:40:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:40:06] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:42:03 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:42:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:42:03 INFO [decorator.py:59]: /login time cost=0.002s
+2022-11-27 20:42:03 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:42:03] "GET /login HTTP/1.1" 200 -
+2022-11-27 20:44:39 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:44:39 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:44:39 INFO [decorator.py:59]: /index time cost=0.001s
+2022-11-27 20:44:39 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:44:39] "GET /index HTTP/1.1" 200 -
+2022-11-27 20:44:43 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:44:43 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:44:43 INFO [decorator.py:59]: /index/index time cost=0.001s
+2022-11-27 20:44:43 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:44:43] "GET /index/index HTTP/1.1" 200 -
+2022-11-27 20:52:52 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:52:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:52:52 INFO [decorator.py:59]: /ok time cost=0.001s
+2022-11-27 20:52:52 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:52:52] "GET /ok HTTP/1.1" 200 -
+2022-11-27 20:52:57 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:52:57 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:52:57 INFO [decorator.py:59]: /thisisok time cost=0.001s
+2022-11-27 20:52:57 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:52:57] "GET /thisisok HTTP/1.1" 200 -
+2022-11-27 20:53:55 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:53:55 ERROR [router.py:83]: No module named 'app.module.hello'
+2022-11-27 20:53:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:53:55 INFO [decorator.py:59]: /hello/world time cost=0.001s
+2022-11-27 20:53:55 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:53:55] "GET /hello/world HTTP/1.1" 200 -
+2022-11-27 20:54:24 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:54:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:54:24 INFO [decorator.py:59]: /thisisok time cost=0.001s
+2022-11-27 20:54:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:24] "GET /thisisok HTTP/1.1" 200 -
+2022-11-27 20:54:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:24] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:54:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:24] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:54:24 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:54:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:54:24 INFO [decorator.py:59]: /thisisok time cost=0.001s
+2022-11-27 20:54:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:24] "GET /thisisok HTTP/1.1" 200 -
+2022-11-27 20:54:25 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:25] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:54:25 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:25] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:54:27 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:54:27 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:54:27 INFO [decorator.py:59]: /hello/world time cost=0.002s
+2022-11-27 20:54:27 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:27] "GET /hello/world HTTP/1.1" 200 -
+2022-11-27 20:54:27 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:27] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 20:54:27 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:54:27] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 20:59:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:59:15 ERROR [router.py:83]: 'NoticeController' object has no attribute 'swaxribe_notice'
+2022-11-27 20:59:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:59:15 INFO [decorator.py:59]: /notice/swaxribe_notice time cost=0.003s
+2022-11-27 20:59:15 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:59:15] "GET /notice/swaxribe_notice HTTP/1.1" 200 -
+2022-11-27 20:59:29 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 20:59:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 20:59:29 INFO [decorator.py:59]: /notice/describe_notice time cost=0.001s
+2022-11-27 20:59:29 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 20:59:29] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-27 21:02:38 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 21:02:38 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-27 21:02:38 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 21:02:38 INFO [decorator.py:59]: /user/add time cost=0.002s
+2022-11-27 21:02:38 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 21:02:38] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 21:03:48 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 21:03:48 ERROR [router.py:83]: No module named 'app.module.uesr'
+2022-11-27 21:03:48 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 21:03:48 INFO [decorator.py:59]: /uesr/add time cost=0.001s
+2022-11-27 21:03:48 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 21:03:48] "GET /uesr/add HTTP/1.1" 200 -
+2022-11-27 21:03:59 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 21:03:59 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-27 21:03:59 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 21:03:59 INFO [decorator.py:59]: /user/add time cost=0.001s
+2022-11-27 21:03:59 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 21:03:59] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 21:04:32 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 21:04:32 ERROR [router.py:83]: insert fields is empty
+2022-11-27 21:04:32 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 21:04:32 INFO [decorator.py:59]: /user/add time cost=0.001s
+2022-11-27 21:04:32 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 21:04:32] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:30:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:30:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:30:06 INFO [decorator.py:59]: /hello/world time cost=0.002s
+2022-11-27 22:30:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:30:06] "GET /hello/world HTTP/1.1" 200 -
+2022-11-27 22:30:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:30:06] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-27 22:30:06 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:30:06] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-27 22:30:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:30:46 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-27 22:30:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:30:46 INFO [decorator.py:59]: /user/add time cost=0.001s
+2022-11-27 22:30:46 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:30:46] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:32:52 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:32:52 INFO [mysql.py:168]: sql: insert into `user`(`username`,`phone`,`money`) values('q2','13333','23')
+2022-11-27 22:32:52 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:32:52 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:32:52 ERROR [mysql.py:177]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:32:52 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:32:52 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:32:52 ERROR [router.py:83]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:32:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:32:52 INFO [decorator.py:59]: /user/add time cost=0.006s
+2022-11-27 22:32:52 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:32:52] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:41:32 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:41:32 INFO [mysql.py:168]: sql: insert into `user`(`username`,`phone`,`money`) values('q2','13333','23')
+2022-11-27 22:41:32 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:41:32 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:41:32 ERROR [mysql.py:177]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:41:32 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:41:32 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:41:32 ERROR [router.py:83]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:41:32 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:41:32 INFO [decorator.py:59]: /user/add time cost=0.004s
+2022-11-27 22:41:32 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:41:32] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:41:48 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:41:48 INFO [mysql.py:168]: sql: insert into `user`(`username`,`phone`,`money`) values('q2','13333','23')
+2022-11-27 22:41:48 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:41:48 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:41:48 ERROR [mysql.py:177]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:41:48 INFO [mysql.py:42]: {'host': '127.0.0.1', 'port': 3306, 'user': 'root', 'password': 'password', 'database': 'hallo', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:41:48 ERROR [mysql.py:49]: mysql connect error
+2022-11-27 22:41:48 ERROR [router.py:83]: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+2022-11-27 22:41:48 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:41:48 INFO [decorator.py:59]: /user/add time cost=0.005s
+2022-11-27 22:41:48 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:41:48] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:42:28 INFO [base.py:28]: flask app init
+2022-11-27 22:42:28 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:42:28 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-27 22:42:28 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-27 22:42:28 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-27 22:42:28 INFO [base.py:28]: flask app init
+2022-11-27 22:42:28 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:42:28 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-27 22:42:28 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-27 22:42:32 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:42:32 INFO [mysql.py:168]: sql: insert into `user`(`username`,`phone`,`money`) values('q2','13333','23')
+2022-11-27 22:42:32 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-27 22:42:32 INFO [mysql.py:46]: mysql connect success
+2022-11-27 22:42:32 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:42:32 INFO [decorator.py:59]: /user/add time cost=0.082s
+2022-11-27 22:42:32 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:42:32] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 22:45:34 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 22:45:34 INFO [mysql.py:168]: sql: insert into `user`(`username`,`phone`,`money`) values('q3','1123','232')
+2022-11-27 22:45:34 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 22:45:34 INFO [decorator.py:59]: /user/add time cost=0.004s
+2022-11-27 22:45:34 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 22:45:34] "GET /user/add HTTP/1.1" 200 -
+2022-11-27 23:42:48 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:42:48 ERROR [router.py:83]: module 'app.module.token' has no attribute 'TokenController'
+2022-11-27 23:42:48 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:42:48 INFO [decorator.py:59]: /token/use time cost=0.002s
+2022-11-27 23:42:48 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:42:48] "GET /token/use HTTP/1.1" 200 -
+2022-11-27 23:43:24 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:43:24 ERROR [router.py:83]: module 'app.module.token' has no attribute 'TokenController'
+2022-11-27 23:43:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:43:24 INFO [decorator.py:59]: /token/user time cost=0.001s
+2022-11-27 23:43:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:43:24] "GET /token/user HTTP/1.1" 200 -
+2022-11-27 23:43:29 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:43:29 ERROR [router.py:83]: 'UserController' object has no attribute ''
+2022-11-27 23:43:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:43:29 INFO [decorator.py:59]: /token/user/ time cost=0.002s
+2022-11-27 23:43:29 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:43:29] "GET /token/user/ HTTP/1.1" 200 -
+2022-11-27 23:44:02 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:44:02 ERROR [router.py:83]: 'UserController' object has no attribute ''
+2022-11-27 23:44:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:44:02 INFO [decorator.py:59]: /token/user/ time cost=0.001s
+2022-11-27 23:44:02 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:44:02] "GET /token/user/ HTTP/1.1" 200 -
+2022-11-27 23:44:23 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:44:23 ERROR [router.py:83]: module 'app.module.token' has no attribute 'TokenController'
+2022-11-27 23:44:23 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:44:23 INFO [decorator.py:59]: /token/user time cost=0.001s
+2022-11-27 23:44:23 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:44:23] "GET /token/user HTTP/1.1" 200 -
+2022-11-27 23:44:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:44:46 ERROR [router.py:83]: module 'app.module.token' has no attribute 'TokenController'
+2022-11-27 23:44:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:44:46 INFO [decorator.py:59]: /token/user time cost=0.001s
+2022-11-27 23:44:46 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:44:46] "GET /token/user HTTP/1.1" 200 -
+2022-11-27 23:45:08 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:45:08 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-27 23:45:08 ERROR [router.py:83]: Error 111 connecting to 127.0.0.1:6379. Connection refused.
+2022-11-27 23:45:08 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:45:08 INFO [decorator.py:59]: /token/user/login time cost=0.004s
+2022-11-27 23:45:08 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:45:08] "GET /token/user/login HTTP/1.1" 200 -
+2022-11-27 23:46:38 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:46:38 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-27 23:46:38 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:46:38 INFO [decorator.py:59]: /token/user/login time cost=0.004s
+2022-11-27 23:46:38 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:46:38] "GET /token/user/login HTTP/1.1" 200 -
+2022-11-27 23:47:39 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:47:39 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:47:39 INFO [decorator.py:59]: /token/user/info time cost=0.001s
+2022-11-27 23:47:39 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:47:39] "GET /token/user/info HTTP/1.1" 200 -
+2022-11-27 23:47:48 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:47:48 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:47:48 INFO [decorator.py:59]: /token/user/logout time cost=0.001s
+2022-11-27 23:47:48 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:47:48] "GET /token/user/logout HTTP/1.1" 200 -
+2022-11-27 23:48:01 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:48:01 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-27 23:48:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:48:01 INFO [decorator.py:59]: /token/user/login time cost=0.003s
+2022-11-27 23:48:01 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:48:01] "GET /token/user/login HTTP/1.1" 200 -
+2022-11-27 23:48:04 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:48:04 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:48:05 INFO [decorator.py:59]: /token/user/info time cost=0.001s
+2022-11-27 23:48:05 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:48:05] "GET /token/user/info HTTP/1.1" 200 -
+2022-11-27 23:48:10 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:48:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:48:10 INFO [decorator.py:59]: /token/user/logout time cost=0.001s
+2022-11-27 23:48:10 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:48:10] "GET /token/user/logout HTTP/1.1" 200 -
+2022-11-27 23:49:03 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:49:03 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-27 23:49:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:49:03 INFO [decorator.py:59]: /token/user/login time cost=0.003s
+2022-11-27 23:49:03 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:49:03] "GET /token/user/login HTTP/1.1" 200 -
+2022-11-27 23:50:08 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:50:08 INFO [mysql.py:106]: sql: select * from `user` where `id` = '1' limit 1
+2022-11-27 23:50:08 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:50:08 INFO [decorator.py:59]: /token/user/info time cost=0.003s
+2022-11-27 23:50:08 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:50:08] "GET /token/user/info HTTP/1.1" 200 -
+2022-11-27 23:50:24 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:50:24 ERROR [router.py:83]: module 'app.module.token' has no attribute 'TokenController'
+2022-11-27 23:50:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:50:24 INFO [decorator.py:59]: /token/logout time cost=0.001s
+2022-11-27 23:50:24 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:50:24] "GET /token/logout HTTP/1.1" 200 -
+2022-11-27 23:50:36 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:50:36 INFO [mysql.py:106]: sql: select * from `user` where `id` = '1' limit 1
+2022-11-27 23:50:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:50:36 INFO [decorator.py:59]: /token/user/logout time cost=0.004s
+2022-11-27 23:50:36 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:50:36] "GET /token/user/logout HTTP/1.1" 200 -
+2022-11-27 23:50:42 INFO [connection_pool.py:55]: get connection from pool
+2022-11-27 23:50:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-27 23:50:42 INFO [decorator.py:59]: /token/user/info time cost=0.001s
+2022-11-27 23:50:42 INFO [_internal.py:224]: 127.0.0.1 - - [27/Nov/2022 23:50:42] "GET /token/user/info HTTP/1.1" 200 -
+2022-11-28 00:02:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:02:26 ERROR [router.py:83]: 'UserController' object has no attribute 'list'
+2022-11-28 00:02:26 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:02:26 INFO [decorator.py:59]: /user/list time cost=0.001s
+2022-11-28 00:02:26 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:26] "GET /user/list HTTP/1.1" 200 -
+2022-11-28 00:02:54 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:02:54 ERROR [router.py:83]: 'UserController' object has no attribute 'list'
+2022-11-28 00:02:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:02:54 INFO [decorator.py:59]: /user/list time cost=0.001s
+2022-11-28 00:02:54 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:54] "GET /user/list HTTP/1.1" 200 -
+2022-11-28 00:02:54 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:54] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-28 00:02:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:55] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-28 00:02:55 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:02:55 ERROR [router.py:83]: 'UserController' object has no attribute 'list'
+2022-11-28 00:02:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:02:55 INFO [decorator.py:59]: /user/list time cost=0.002s
+2022-11-28 00:02:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:55] "GET /user/list HTTP/1.1" 200 -
+2022-11-28 00:02:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:55] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-28 00:02:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:02:55] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-28 00:03:04 INFO [base.py:28]: flask app init
+2022-11-28 00:03:04 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:03:04 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:03:04 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:03:04 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:03:04 INFO [base.py:28]: flask app init
+2022-11-28 00:03:04 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:03:04 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:03:04 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:03:08 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:03:08 INFO [mysql.py:212]: sql: select count(*) from `user`
+2022-11-28 00:03:08 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 00:03:08 INFO [mysql.py:46]: mysql connect success
+2022-11-28 00:03:08 INFO [mysql.py:130]: sql: select * from `user` limit 10
+2022-11-28 00:03:08 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:03:08 INFO [decorator.py:59]: /user/list time cost=0.093s
+2022-11-28 00:03:08 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:03:08] "GET /user/list HTTP/1.1" 200 -
+2022-11-28 00:03:08 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:03:08] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-28 00:03:08 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:03:08] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-28 00:18:34 INFO [base.py:28]: flask app init
+2022-11-28 00:18:35 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:18:35 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:18:35 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:18:35 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:18:35 INFO [base.py:28]: flask app init
+2022-11-28 00:18:35 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:18:35 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:18:35 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:19:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:19:26 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:19:26 INFO [decorator.py:59]: /notice/describe_notice time cost=0.006s
+2022-11-28 00:19:26 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:19:26] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-28 00:21:21 INFO [base.py:28]: flask app init
+2022-11-28 00:21:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:21:21 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:21:21 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:21:21 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:21:21 INFO [base.py:28]: flask app init
+2022-11-28 00:21:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:21:21 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:21:21 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:21:36 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:21:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:21:36 INFO [decorator.py:59]: /notice/describe_notice time cost=0.005s
+2022-11-28 00:21:36 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:21:36] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-28 00:25:52 INFO [base.py:28]: flask app init
+2022-11-28 00:25:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:25:52 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:25:52 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:25:52 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:25:52 INFO [base.py:28]: flask app init
+2022-11-28 00:25:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:25:52 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:25:52 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:26:03 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:26:03 ERROR [router.py:83]: missing table name
+2022-11-28 00:26:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:26:03 INFO [decorator.py:59]: /notice/describe_notice time cost=0.006s
+2022-11-28 00:26:03 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:26:03] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-28 00:32:12 INFO [base.py:28]: flask app init
+2022-11-28 00:32:12 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:32:12 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:32:12 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:32:12 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:32:12 INFO [base.py:28]: flask app init
+2022-11-28 00:32:12 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:32:12 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:32:12 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:32:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:32:15 ERROR [router.py:83]: missing table name
+2022-11-28 00:32:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:32:15 INFO [decorator.py:59]: /notice/describe_notice time cost=0.006s
+2022-11-28 00:32:15 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:32:15] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-28 00:37:11 INFO [base.py:28]: flask app init
+2022-11-28 00:37:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:37:11 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:37:11 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:37:11 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:37:11 INFO [base.py:28]: flask app init
+2022-11-28 00:37:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:37:11 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:37:11 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:37:16 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:37:16 ERROR [router.py:83]: missing table name
+2022-11-28 00:37:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:37:16 INFO [decorator.py:59]: /notice/describe_notice time cost=0.006s
+2022-11-28 00:37:16 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:37:16] "GET /notice/describe_notice HTTP/1.1" 200 -
+2022-11-28 00:39:36 INFO [base.py:28]: flask app init
+2022-11-28 00:39:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:39:36 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:39:36 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:39:36 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:39:36 INFO [base.py:28]: flask app init
+2022-11-28 00:39:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:39:36 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:39:36 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:39:39 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:39:39 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:39:39 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 00:39:39 INFO [mysql.py:46]: mysql connect success
+2022-11-28 00:39:39 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:39:39 INFO [decorator.py:59]: /notice/describe_notice time cost=0.083s
+2022-11-28 00:39:39 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:39] "[35m[1mGET /notice/describe_notice HTTP/1.1[0m" 500 -
+2022-11-28 00:39:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:39:46 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:39:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:39:46 INFO [decorator.py:59]: /notice/describe_notice time cost=0.004s
+2022-11-28 00:39:46 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:46] "[35m[1mGET /notice/describe_notice HTTP/1.1[0m" 500 -
+2022-11-28 00:39:59 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:39:59 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:39:59 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:39:59 INFO [decorator.py:59]: /notice/describe_notice time cost=0.003s
+2022-11-28 00:39:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:59] "[35m[1mGET /notice/describe_notice HTTP/1.1[0m" 500 -
+2022-11-28 00:39:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:59] "GET /notice/describe_notice?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-11-28 00:39:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:59] "GET /notice/describe_notice?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-11-28 00:39:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:59] "GET /notice/describe_notice?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-11-28 00:39:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:39:59] "[36mGET /notice/describe_notice?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-11-28 00:45:15 INFO [base.py:28]: flask app init
+2022-11-28 00:45:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:45:15 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:45:15 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:45:15 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:45:15 INFO [base.py:28]: flask app init
+2022-11-28 00:45:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:45:15 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:45:15 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:45:20 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:45:20 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:45:20 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 00:45:20 INFO [mysql.py:46]: mysql connect success
+2022-11-28 00:45:20 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:45:20 INFO [decorator.py:59]: /notice/describe_notice time cost=0.083s
+2022-11-28 00:45:20 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:45:20] "[35m[1mGET /notice/describe_notice HTTP/1.1[0m" 500 -
+2022-11-28 00:49:31 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:49:31 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:49:31 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:49:31 INFO [decorator.py:59]: /notice/describe_notice time cost=0.003s
+2022-11-28 00:49:31 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:49:31] "[35m[1mGET /notice/describe_notice HTTP/1.1[0m" 500 -
+2022-11-28 00:55:45 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:55:45 ERROR [router.py:83]: 'NoticeController' object has no attribute 'describe'
+2022-11-28 00:55:45 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:55:45 INFO [decorator.py:59]: /notice/describe time cost=0.001s
+2022-11-28 00:55:45 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:55:45] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 00:55:55 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:55:55 ERROR [router.py:83]: 'NoticeController' object has no attribute 'describe'
+2022-11-28 00:55:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:55:55 INFO [decorator.py:59]: /notice/describe time cost=0.001s
+2022-11-28 00:55:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:55:55] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 00:56:18 INFO [base.py:28]: flask app init
+2022-11-28 00:56:18 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:56:18 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 00:56:18 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 00:56:18 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 00:56:18 INFO [base.py:28]: flask app init
+2022-11-28 00:56:18 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:56:18 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 00:56:18 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 00:56:31 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 00:56:31 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 00:56:31 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 00:56:31 INFO [mysql.py:46]: mysql connect success
+2022-11-28 00:56:31 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 00:56:31 INFO [decorator.py:59]: /notice/describe time cost=0.07s
+2022-11-28 00:56:31 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 00:56:31] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:02:28 INFO [base.py:28]: flask app init
+2022-11-28 01:02:28 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:02:28 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:02:28 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:02:28 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:02:28 INFO [base.py:28]: flask app init
+2022-11-28 01:02:28 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:02:28 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:02:28 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:02:43 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:02:43 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:02:43 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:02:43 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:02:43 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:02:43 INFO [decorator.py:59]: /notice/describe time cost=0.078s
+2022-11-28 01:02:43 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:02:43] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:02:59 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:02:59 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:02:59 INFO [decorator.py:59]: /index time cost=0.001s
+2022-11-28 01:02:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:02:59] "GET /index HTTP/1.1" 200 -
+2022-11-28 01:03:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:03:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:03:11 INFO [decorator.py:59]: /user time cost=0.001s
+2022-11-28 01:03:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:03:11] "GET /user HTTP/1.1" 200 -
+2022-11-28 01:03:17 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:03:17 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-28 01:03:17 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:03:17 INFO [decorator.py:59]: /token/user/login time cost=0.005s
+2022-11-28 01:03:17 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:03:17] "GET /token/user/login HTTP/1.1" 200 -
+2022-11-28 01:03:31 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:03:31 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:03:31 INFO [decorator.py:59]: /notice time cost=0.001s
+2022-11-28 01:03:31 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:03:31] "GET /notice HTTP/1.1" 200 -
+2022-11-28 01:03:51 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:03:51 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:03:51 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:03:51 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 01:03:51 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:03:51] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:04:27 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:04:27 ERROR [router.py:83]: 文件上传失败
+2022-11-28 01:04:27 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:04:27 INFO [decorator.py:59]: /file/upload time cost=0.005s
+2022-11-28 01:04:27 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:04:27] "GET /file/upload HTTP/1.1" 200 -
+2022-11-28 01:04:42 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:04:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:04:42 INFO [decorator.py:59]: /base/ok time cost=0.001s
+2022-11-28 01:04:42 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:04:42] "GET /base/ok HTTP/1.1" 200 -
+2022-11-28 01:05:24 INFO [base.py:28]: flask app init
+2022-11-28 01:05:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:05:24 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:05:24 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:05:24 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:05:24 INFO [base.py:28]: flask app init
+2022-11-28 01:05:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:05:24 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:05:24 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:05:33 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:05:33 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:05:33 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:05:33 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:05:33 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:05:33 INFO [decorator.py:59]: /notice/describe time cost=0.051s
+2022-11-28 01:05:33 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:05:33] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:06:23 INFO [base.py:28]: flask app init
+2022-11-28 01:06:23 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:06:23 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:06:23 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:06:23 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:06:23 INFO [base.py:28]: flask app init
+2022-11-28 01:06:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:06:24 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:06:24 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:06:27 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:06:27 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:06:27 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:06:27 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:06:27 ERROR [router.py:83]: BaseController.ok() got an unexpected keyword argument 'msg'
+2022-11-28 01:06:27 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:06:27 INFO [decorator.py:59]: /notice/describe time cost=0.017s
+2022-11-28 01:06:27 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:06:27] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:07:16 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:07:16 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:07:16 ERROR [router.py:83]: BaseController.ok() got an unexpected keyword argument 'msg'
+2022-11-28 01:07:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:07:16 INFO [decorator.py:59]: /notice/describe time cost=0.004s
+2022-11-28 01:07:16 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:07:16] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:07:29 INFO [base.py:28]: flask app init
+2022-11-28 01:07:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:07:29 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:07:29 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:07:29 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:07:29 INFO [base.py:28]: flask app init
+2022-11-28 01:07:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:07:30 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:07:30 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:07:48 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:07:48 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:07:48 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:07:48 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:07:48 ERROR [router.py:83]: BaseController.ok() got an unexpected keyword argument 'msg'
+2022-11-28 01:07:48 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:07:48 INFO [decorator.py:59]: /notice/describe time cost=0.052s
+2022-11-28 01:07:48 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:07:48] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:09:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:09:06 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:09:06 ERROR [router.py:83]: BaseController.ok() got an unexpected keyword argument 'msg'
+2022-11-28 01:09:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:09:06 INFO [decorator.py:59]: /notice/describe time cost=0.004s
+2022-11-28 01:09:06 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:09:06] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:10:47 INFO [base.py:28]: flask app init
+2022-11-28 01:10:47 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:10:47 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:10:47 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:10:47 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:10:47 INFO [base.py:28]: flask app init
+2022-11-28 01:10:47 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:10:47 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:10:47 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:10:50 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:10:50 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:10:50 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:10:50 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:10:50 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:10:50 INFO [decorator.py:59]: /notice/describe time cost=0.081s
+2022-11-28 01:10:50 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:10:50] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:11:41 INFO [base.py:28]: flask app init
+2022-11-28 01:11:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:11:41 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:11:41 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:11:41 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:11:41 INFO [base.py:28]: flask app init
+2022-11-28 01:11:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:11:41 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:11:41 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:11:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:11:46 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:11:46 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:11:46 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:11:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:11:46 INFO [decorator.py:59]: /notice/describe time cost=0.27s
+2022-11-28 01:11:46 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:11:46] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:12:01 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:12:01 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:12:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:12:01 INFO [decorator.py:59]: /notice/describe time cost=0.004s
+2022-11-28 01:12:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:12:01] "[35m[1mGET /notice/describe HTTP/1.1[0m" 500 -
+2022-11-28 01:12:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:12:01] "GET /notice/describe?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-11-28 01:12:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:12:01] "GET /notice/describe?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-11-28 01:12:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:12:01] "GET /notice/describe?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-11-28 01:12:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:12:01] "[36mGET /notice/describe?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-11-28 01:15:10 INFO [base.py:28]: flask app init
+2022-11-28 01:15:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:15:10 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:15:10 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:15:10 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:15:10 INFO [base.py:28]: flask app init
+2022-11-28 01:15:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:15:10 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:15:10 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:15:13 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:15:13 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:15:13 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:15:13 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:15:13 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:15:13 INFO [decorator.py:59]: /notice/describe time cost=0.075s
+2022-11-28 01:15:13 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:15:13] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:17:16 INFO [base.py:28]: flask app init
+2022-11-28 01:17:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:17:16 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:17:16 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:17:16 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:17:16 INFO [base.py:28]: flask app init
+2022-11-28 01:17:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:17:16 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:17:16 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:17:40 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:17:40 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:17:40 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:17:40 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:17:40 INFO [mysql.py:198]: sql: update `notice` set `msg`='123' where `id`='1'
+2022-11-28 01:17:40 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:17:40 INFO [decorator.py:59]: /notice/modify time cost=0.058s
+2022-11-28 01:17:40 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:17:40] "GET /notice/modify HTTP/1.1" 200 -
+2022-11-28 01:18:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:18:26 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:18:26 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:18:26 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 01:18:26 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:18:26] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:19:14 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:19:14 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:19:14 INFO [mysql.py:198]: sql: update `notice` set `msg`='123' where `id`='1'
+2022-11-28 01:19:14 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:19:14 INFO [decorator.py:59]: /notice/modify time cost=0.006s
+2022-11-28 01:19:14 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:19:14] "GET /notice/modify HTTP/1.1" 200 -
+2022-11-28 01:19:54 INFO [base.py:28]: flask app init
+2022-11-28 01:19:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:19:54 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:19:54 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:19:54 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:19:54 INFO [base.py:28]: flask app init
+2022-11-28 01:19:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:19:54 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:19:54 INFO [_internal.py:224]:  * Debugger PIN: 133-046-351
+2022-11-28 01:20:00 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:20:00 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:20:00 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:20:00 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:20:00 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:20:00 INFO [decorator.py:59]: /notice/describe time cost=0.085s
+2022-11-28 01:20:00 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:20:00] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:36:19 INFO [base.py:28]: flask app init
+2022-11-28 01:36:19 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:36:19 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 01:36:19 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 01:36:19 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 01:36:19 INFO [base.py:28]: flask app init
+2022-11-28 01:36:19 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:36:19 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 01:36:19 INFO [_internal.py:224]:  * Debugger PIN: 222-935-270
+2022-11-28 01:36:50 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:36:50 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 01:36:50 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 01:36:50 INFO [mysql.py:46]: mysql connect success
+2022-11-28 01:36:50 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:36:50 INFO [decorator.py:59]: /notice/describe time cost=0.108s
+2022-11-28 01:36:50 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:36:50] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 01:37:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:37:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:37:11 INFO [decorator.py:59]: /order/new_order_id time cost=0.049s
+2022-11-28 01:37:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:37:11] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 01:37:13 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:37:13 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:37:13 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 01:37:13 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:37:13] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 01:37:14 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:37:14 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:37:14 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 01:37:14 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:37:14] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 01:37:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:37:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:37:15 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 01:37:15 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:37:15] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 01:37:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 01:37:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 01:37:15 INFO [decorator.py:59]: /order/new_order_id time cost=0.005s
+2022-11-28 01:37:15 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 01:37:15] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:05:37 INFO [base.py:28]: flask app init
+2022-11-28 10:05:37 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:37 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:05:37 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:05:37 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:05:37 INFO [base.py:28]: flask app init
+2022-11-28 10:05:37 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:37 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:05:37 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:05:41 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:05:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:42 INFO [decorator.py:59]: /order/new_order_id time cost=0.051s
+2022-11-28 10:05:42 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:05:42] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:05:44 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:05:44 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:44 INFO [decorator.py:59]: /order/new_order_id time cost=0.005s
+2022-11-28 10:05:44 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:05:44] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:05:45 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:05:45 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:45 INFO [decorator.py:59]: /order/new_order_id time cost=0.009s
+2022-11-28 10:05:45 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:05:45] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:05:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:05:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:05:46 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 10:05:46 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:05:46] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:27:22 INFO [base.py:28]: flask app init
+2022-11-28 10:27:22 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:27:22 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:27:22 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:27:22 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:27:22 INFO [base.py:28]: flask app init
+2022-11-28 10:27:22 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:27:22 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:27:22 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:27:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:27:46 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-28 10:27:46 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:27:46 INFO [decorator.py:59]: /cos/upload time cost=0.507s
+2022-11-28 10:27:46 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:27:46] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:28:43 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:28:43 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:28:43 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:28:43 INFO [decorator.py:59]: /cos/upload time cost=0.001s
+2022-11-28 10:28:43 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:28:43] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:32:22 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:32:22 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:32:22 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:32:22 INFO [decorator.py:59]: /cos/upload time cost=0.001s
+2022-11-28 10:32:22 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:32:22] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:32:54 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:32:54 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:32:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:32:54 INFO [decorator.py:59]: /cos/upload/ time cost=0.001s
+2022-11-28 10:32:54 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:32:54] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:33:50 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:33:50 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:33:50 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:33:50 INFO [decorator.py:59]: /cos/upload/ time cost=0.001s
+2022-11-28 10:33:50 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:33:50] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:33:52 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:33:52 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:33:52 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:33:52 INFO [decorator.py:59]: /cos/upload/ time cost=0.004s
+2022-11-28 10:33:52 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:33:52] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:35:10 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:35:10 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:35:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:35:10 INFO [decorator.py:59]: /cos/upload/ time cost=0.001s
+2022-11-28 10:35:10 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:35:10] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:35:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:35:15 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:35:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:35:15 INFO [decorator.py:59]: /cos/upload time cost=0.001s
+2022-11-28 10:35:15 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:35:15] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:36:03 INFO [base.py:28]: flask app init
+2022-11-28 10:36:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:36:03 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:36:03 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:36:03 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:36:03 INFO [base.py:28]: flask app init
+2022-11-28 10:36:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:36:03 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:36:03 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:36:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:36:06 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:36:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:36:06 INFO [decorator.py:59]: /cos/upload time cost=0.057s
+2022-11-28 10:36:06 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:36:06] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:36:16 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:36:16 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:36:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:36:16 INFO [decorator.py:59]: /cos/upload/ time cost=0.001s
+2022-11-28 10:36:16 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:36:16] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:37:58 INFO [base.py:28]: flask app init
+2022-11-28 10:37:58 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:37:58 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:37:58 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:37:58 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:37:58 INFO [base.py:28]: flask app init
+2022-11-28 10:37:58 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:37:58 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:37:58 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:38:02 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:38:02 ERROR [router.py:83]: No module named 'app.module.cos.upload'; 'app.module.cos' is not a package
+2022-11-28 10:38:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:38:02 INFO [decorator.py:59]: /cos/upload/ time cost=0.057s
+2022-11-28 10:38:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:38:02] "GET /cos/upload/ HTTP/1.1" 200 -
+2022-11-28 10:38:07 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:38:07 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:38:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:38:07 INFO [decorator.py:59]: /cos/upload time cost=0.002s
+2022-11-28 10:38:07 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:38:07] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:41:29 INFO [base.py:28]: flask app init
+2022-11-28 10:41:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:41:29 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:41:29 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:41:29 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:41:30 INFO [base.py:28]: flask app init
+2022-11-28 10:41:30 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:41:30 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:41:30 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:41:40 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:41:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:41:41 INFO [decorator.py:59]: /order/new_order_id time cost=0.051s
+2022-11-28 10:41:41 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:41:41] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:41:41 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:41:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:41:41 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 10:41:41 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:41:41] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 10:41:44 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:41:44 ERROR [router.py:83]: local variable 'config' referenced before assignment
+2022-11-28 10:41:44 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:41:44 INFO [decorator.py:59]: /cos/upload time cost=0.013s
+2022-11-28 10:41:44 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:41:44] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:45:02 INFO [base.py:28]: flask app init
+2022-11-28 10:45:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:45:02 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:45:02 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:45:02 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:45:03 INFO [base.py:28]: flask app init
+2022-11-28 10:45:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:45:03 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:45:03 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:45:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:45:06 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 10:45:06 INFO [cos_client.py:421]: put object, url=:https://demo1.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 10:45:06 ERROR [cos_client.py:389]: <?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>InvalidRequest</Code>
+	<Message>Missing required header for this request: Appid, Bucket format should be &lt;bucketname&gt;-&lt;appid&gt;</Message>
+	<Resource>demo1.cos.ap-nanjing.myqcloud.com/test1</Resource>
+	<RequestId>NjM4NDIwYzFfMjI1NWU0MDlfMTEyMGFfMmI1ZTAxMA==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODczNTBmNjMwZmQ0MTZkMjg0NjlkNTYyNmY4ZTRkZTk0N2FiMmYwMTY2MDExNTVkYjZlZjEyOTBjYTg3YWFkMTczYzNiZmEyODYwZDBlNzE3M2M0MGNkYzBkOGVkMTVkN2U=</TraceId>
+</Error>
+
+
+2022-11-28 10:45:06 ERROR [router.py:83]: {'code': 'InvalidRequest', 'message': 'Missing required header for this request: Appid, Bucket format should be <bucketname>-<appid>', 'resource': 'demo1.cos.ap-nanjing.myqcloud.com/test1', 'requestid': 'NjM4NDIwYzFfMjI1NWU0MDlfMTEyMGFfMmI1ZTAxMA==', 'traceid': 'OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODczNTBmNjMwZmQ0MTZkMjg0NjlkNTYyNmY4ZTRkZTk0N2FiMmYwMTY2MDExNTVkYjZlZjEyOTBjYTg3YWFkMTczYzNiZmEyODYwZDBlNzE3M2M0MGNkYzBkOGVkMTVkN2U='}
+2022-11-28 10:45:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:45:06 INFO [decorator.py:59]: /cos/upload time cost=0.385s
+2022-11-28 10:45:06 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:45:06] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:46:16 INFO [base.py:28]: flask app init
+2022-11-28 10:46:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:46:16 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:46:16 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:46:16 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:46:16 INFO [base.py:28]: flask app init
+2022-11-28 10:46:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:46:16 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:46:16 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:46:22 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:46:22 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 10:46:22 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 10:46:23 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:46:23 INFO [decorator.py:59]: /cos/upload time cost=0.876s
+2022-11-28 10:46:23 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:46:23] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:48:08 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:48:08 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 10:48:08 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:48:08 INFO [decorator.py:59]: /cos/upload time cost=0.52s
+2022-11-28 10:48:08 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:48:08] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:48:24 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:48:24 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 10:48:24 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:48:24 INFO [decorator.py:59]: /cos/upload time cost=0.09s
+2022-11-28 10:48:24 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:48:24] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 10:54:03 INFO [base.py:28]: flask app init
+2022-11-28 10:54:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:54:03 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:54:03 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:54:03 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:54:03 INFO [base.py:28]: flask app init
+2022-11-28 10:54:03 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:54:03 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:54:03 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:55:17 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:55:17 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-28 10:55:17 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:17 INFO [decorator.py:59]: /cos/download time cost=0.058s
+2022-11-28 10:55:17 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:55:17] "GET /cos/download HTTP/1.1" 200 -
+2022-11-28 10:55:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:55:26 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 10:55:26 INFO [cos_client.py:474]: get object, url=:https://examplebucket-1250000000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 10:55:26 ERROR [cos_client.py:389]: <?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>NoSuchBucket</Code>
+	<Message>The specified bucket does not exist.</Message>
+	<Resource>/</Resource>
+	<RequestId>NjM4NDIzMmNfYmQ0ZmI3MDlfMThlNjBfMjU1Njc0MA==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGJkZTk0YzA5YWMzNTJkMGZjNDgzNjQ5NTcyMmI4Mzdk</TraceId>
+</Error>
+
+
+2022-11-28 10:55:26 ERROR [router.py:83]: {'code': 'NoSuchBucket', 'message': 'The specified bucket does not exist.', 'resource': '/', 'requestid': 'NjM4NDIzMmNfYmQ0ZmI3MDlfMThlNjBfMjU1Njc0MA==', 'traceid': 'OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGJkZTk0YzA5YWMzNTJkMGZjNDgzNjQ5NTcyMmI4Mzdk'}
+2022-11-28 10:55:26 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:26 INFO [decorator.py:59]: /cos/download time cost=0.43s
+2022-11-28 10:55:26 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:55:26] "GET /cos/download HTTP/1.1" 200 -
+2022-11-28 10:55:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:55:46 INFO [cos_client.py:474]: get object, url=:https://examplebucket-1250000000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 10:55:47 ERROR [cos_client.py:389]: <?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>NoSuchBucket</Code>
+	<Message>The specified bucket does not exist.</Message>
+	<Resource>/</Resource>
+	<RequestId>NjM4NDIzNDFfYmQ0ZmI3MDlfMThlMWZfMjU3Yzc1YQ==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGJkZTk0YzA5YWMzNTJkMGZjNDgzNjQ5NTcyMmI4Mzdk</TraceId>
+</Error>
+
+
+2022-11-28 10:55:47 ERROR [router.py:83]: {'code': 'NoSuchBucket', 'message': 'The specified bucket does not exist.', 'resource': '/', 'requestid': 'NjM4NDIzNDFfYmQ0ZmI3MDlfMThlMWZfMjU3Yzc1YQ==', 'traceid': 'OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGJkZTk0YzA5YWMzNTJkMGZjNDgzNjQ5NTcyMmI4Mzdk'}
+2022-11-28 10:55:47 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:47 INFO [decorator.py:59]: /cos/download time cost=0.176s
+2022-11-28 10:55:47 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:55:47] "GET /cos/download HTTP/1.1" 200 -
+2022-11-28 10:55:55 INFO [base.py:28]: flask app init
+2022-11-28 10:55:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:55 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 10:55:55 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 10:55:55 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 10:55:55 INFO [base.py:28]: flask app init
+2022-11-28 10:55:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:56 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 10:55:56 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 10:55:59 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:55:59 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 10:55:59 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 10:55:59 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:55:59 INFO [decorator.py:59]: /cos/download time cost=0.523s
+2022-11-28 10:55:59 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:55:59] "GET /cos/download HTTP/1.1" 200 -
+2022-11-28 10:56:33 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:56:33 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-28 10:56:33 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:56:33 INFO [decorator.py:59]: /cos/download time cost=0.002s
+2022-11-28 10:56:33 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:56:33] "GET /cos/download HTTP/1.1" 200 -
+2022-11-28 10:56:43 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:56:43 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-28 10:56:43 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:56:43 INFO [decorator.py:59]: /cos/download time cost=0.001s
+2022-11-28 10:56:43 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:56:43] "GET /cos/download?file_name=test1 HTTP/1.1" 200 -
+2022-11-28 10:56:54 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:56:54 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 10:56:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:56:54 INFO [decorator.py:59]: /cos/download time cost=0.081s
+2022-11-28 10:56:54 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:56:54] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 10:58:56 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 10:58:56 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 10:58:57 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 10:58:57 INFO [decorator.py:59]: /cos/download time cost=0.485s
+2022-11-28 10:58:57 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 10:58:57] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 11:03:01 INFO [base.py:28]: flask app init
+2022-11-28 11:03:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:03:01 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:03:01 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:03:01 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:03:01 INFO [base.py:28]: flask app init
+2022-11-28 11:03:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:03:01 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:03:01 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:03:07 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:03:07 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:03:07 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:03:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:03:07 INFO [decorator.py:59]: /cos/download time cost=0.406s
+2022-11-28 11:03:07 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:03:07] "[35m[1mPOST /cos/download HTTP/1.1[0m" 500 -
+2022-11-28 11:20:28 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:20:28 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 11:20:29 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:20:29 INFO [decorator.py:59]: /cos/upload time cost=0.82s
+2022-11-28 11:20:29 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:20:29] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 11:21:02 INFO [base.py:28]: flask app init
+2022-11-28 11:21:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:21:02 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:21:02 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:21:02 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:21:02 INFO [base.py:28]: flask app init
+2022-11-28 11:21:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:21:02 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:21:02 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:21:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:21:06 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:21:06 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 11:21:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:21:07 INFO [decorator.py:59]: /cos/upload time cost=0.651s
+2022-11-28 11:21:07 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:21:07] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 11:21:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:21:11 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:21:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:21:11 INFO [decorator.py:59]: /cos/download time cost=0.09s
+2022-11-28 11:21:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:21:11] "[35m[1mPOST /cos/download HTTP/1.1[0m" 500 -
+2022-11-28 11:22:02 INFO [base.py:28]: flask app init
+2022-11-28 11:22:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:22:02 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:22:02 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:22:02 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:22:02 INFO [base.py:28]: flask app init
+2022-11-28 11:22:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:22:02 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:22:02 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:22:06 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:22:06 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:22:06 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:22:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:22:06 INFO [decorator.py:59]: /cos/download time cost=0.583s
+2022-11-28 11:22:06 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:22:06] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 11:23:36 INFO [base.py:28]: flask app init
+2022-11-28 11:23:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:23:36 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:23:36 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:23:36 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:23:36 INFO [base.py:28]: flask app init
+2022-11-28 11:23:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:23:36 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:23:36 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:23:39 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:23:39 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:23:39 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:23:40 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:23:40 INFO [decorator.py:59]: /cos/download time cost=0.533s
+2022-11-28 11:23:40 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:23:40] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 11:24:04 INFO [base.py:28]: flask app init
+2022-11-28 11:24:04 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:24:39 INFO [base.py:28]: flask app init
+2022-11-28 11:24:39 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:24:39 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:24:39 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:24:39 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:24:40 INFO [base.py:28]: flask app init
+2022-11-28 11:24:40 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:24:40 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:24:40 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:24:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:24:46 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:24:46 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:24:47 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:24:47 INFO [decorator.py:59]: /cos/download time cost=0.68s
+2022-11-28 11:24:47 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:24:47] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 11:25:07 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:25:07 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:27:15 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:27:34 INFO [base.py:28]: flask app init
+2022-11-28 11:27:34 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:27:34 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:27:34 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:27:34 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:27:34 INFO [base.py:28]: flask app init
+2022-11-28 11:27:34 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:27:34 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:27:34 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:27:37 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:27:37 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:27:37 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}
+2022-11-28 11:27:38 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:27:38 INFO [decorator.py:59]: /cos/upload time cost=0.804s
+2022-11-28 11:27:38 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:27:38] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 11:28:04 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:04 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:04 INFO [decorator.py:59]: /order/new_order_id time cost=0.005s
+2022-11-28 11:28:04 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:04] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:09 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:09 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:09 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 11:28:09 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:09] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:11 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 11:28:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:11] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:12 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:12 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:12 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 11:28:12 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:12] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:13 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:13 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:13 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 11:28:13 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:13] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:45 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:45 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:45 INFO [decorator.py:59]: /order/new_order_id time cost=0.004s
+2022-11-28 11:28:45 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:45] "GET /order/new_order_id HTTP/1.1" 200 -
+2022-11-28 11:28:54 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:28:54 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 11:28:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:28:55 INFO [decorator.py:59]: /cos/download time cost=0.781s
+2022-11-28 11:28:55 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:28:55] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 11:30:02 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:30:02 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 11:30:02 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 11:30:02 INFO [mysql.py:46]: mysql connect success
+2022-11-28 11:30:02 INFO [mysql.py:198]: sql: update `notice` set `msg`='123' where `id`='1'
+2022-11-28 11:30:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:30:02 INFO [decorator.py:59]: /notice/modify time cost=0.094s
+2022-11-28 11:30:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:30:02] "GET /notice/modify HTTP/1.1" 200 -
+2022-11-28 11:30:07 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:30:07 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 11:30:07 INFO [mysql.py:198]: sql: update `notice` set `msg`='432432' where `id`='1'
+2022-11-28 11:30:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:30:07 INFO [decorator.py:59]: /notice/modify time cost=0.006s
+2022-11-28 11:30:07 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:30:07] "GET /notice/modify HTTP/1.1" 200 -
+2022-11-28 11:30:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:30:11 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 11:30:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:30:11 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 11:30:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 11:30:11] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 11:33:31 INFO [base.py:28]: flask app init
+2022-11-28 11:33:31 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:33:31 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 11:33:31 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 11:33:31 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 11:33:32 INFO [base.py:28]: flask app init
+2022-11-28 11:33:32 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 11:33:32 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 11:33:32 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 11:33:46 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 11:33:46 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 11:33:46 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 12:24:11 INFO [base.py:28]: flask app init
+2022-11-28 12:24:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 12:24:11 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 12:24:11 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 12:24:11 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 12:24:11 INFO [base.py:28]: flask app init
+2022-11-28 12:24:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 12:24:11 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 12:24:11 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 12:24:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 12:24:26 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 12:24:26 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/test1 ,headers=:{}, params=:{}
+2022-11-28 12:24:27 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 12:24:27 INFO [decorator.py:59]: /cos/download time cost=0.944s
+2022-11-28 12:24:27 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 12:24:27] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 14:57:40 INFO [base.py:28]: flask app init
+2022-11-28 14:57:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:57:41 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 14:57:41 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 14:57:41 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 14:57:41 INFO [base.py:28]: flask app init
+2022-11-28 14:57:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:57:41 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 14:57:41 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 14:57:45 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:57:45 INFO [mysql.py:168]: sql: insert into `gift`(`gift_code`) values('vip999')
+2022-11-28 14:57:45 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 14:57:45 INFO [mysql.py:46]: mysql connect success
+2022-11-28 14:57:45 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:57:45 INFO [decorator.py:59]: /gift/new_code time cost=0.108s
+2022-11-28 14:57:45 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:57:45] "GET /gift/new_code HTTP/1.1" 200 -
+2022-11-28 14:58:35 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:58:35 INFO [mysql.py:168]: sql: insert into `gift`(`gift_code`) values('vip666')
+2022-11-28 14:58:35 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:58:35 INFO [decorator.py:59]: /gift/new_code time cost=0.004s
+2022-11-28 14:58:35 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:58:35] "GET /gift/new_code HTTP/1.1" 200 -
+2022-11-28 14:59:10 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:59:10 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'None' limit 1
+2022-11-28 14:59:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:59:10 INFO [decorator.py:59]: /gift/get_gift time cost=0.004s
+2022-11-28 14:59:10 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:59:10] "GET /gift/get_gift HTTP/1.1" 200 -
+2022-11-28 14:59:34 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:59:34 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'dd' limit 1
+2022-11-28 14:59:34 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:59:34 INFO [decorator.py:59]: /gift/get_gift time cost=0.004s
+2022-11-28 14:59:34 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:59:34] "GET /gift/get_gift HTTP/1.1" 200 -
+2022-11-28 14:59:50 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:59:50 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-28 14:59:50 INFO [mysql.py:106]: sql: select * from `gift` where `gift_code` = 'vip666' limit 1
+2022-11-28 14:59:50 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:59:50 INFO [decorator.py:59]: /gift/get_gift time cost=0.009s
+2022-11-28 14:59:50 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:59:50] "GET /gift/get_gift HTTP/1.1" 200 -
+2022-11-28 14:59:56 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 14:59:56 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-28 14:59:56 INFO [mysql.py:106]: sql: select * from `gift` where `gift_code` = 'vip6676' limit 1
+2022-11-28 14:59:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 14:59:56 INFO [decorator.py:59]: /gift/get_gift time cost=0.007s
+2022-11-28 14:59:56 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 14:59:56] "GET /gift/get_gift HTTP/1.1" 200 -
+2022-11-28 15:01:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:01:11 ERROR [router.py:83]: 400 Bad Request: Failed to decode JSON object: None
+2022-11-28 15:01:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:01:11 INFO [decorator.py:59]: /user/add time cost=0.002s
+2022-11-28 15:01:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:01:11] "GET /user/add HTTP/1.1" 200 -
+2022-11-28 15:01:21 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:01:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:01:21 INFO [decorator.py:59]: /index time cost=0.001s
+2022-11-28 15:01:21 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:01:21] "GET /index HTTP/1.1" 200 -
+2022-11-28 15:01:28 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:01:28 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:01:28 INFO [decorator.py:59]: /index/index time cost=0.006s
+2022-11-28 15:01:28 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:01:28] "GET /index/index HTTP/1.1" 200 -
+2022-11-28 15:06:10 INFO [base.py:28]: flask app init
+2022-11-28 15:06:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:06:10 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 15:06:10 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:06:10 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 15:06:10 INFO [base.py:28]: flask app init
+2022-11-28 15:06:10 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:06:10 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 15:06:10 INFO [_internal.py:224]:  * Debugger PIN: 134-601-622
+2022-11-28 15:06:47 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:06:47 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:06:47 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:06:47 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:06:47 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:06:47 INFO [decorator.py:59]: /notice/describe time cost=0.078s
+2022-11-28 15:06:47 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:06:47] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:07:01 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:07:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:07:01 INFO [decorator.py:59]: /index/index time cost=0.004s
+2022-11-28 15:07:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:07:01] "GET /index/index HTTP/1.1" 200 -
+2022-11-28 15:07:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:07:02] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-28 15:07:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:07:02] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+2022-11-28 15:13:05 INFO [base.py:28]: flask app init
+2022-11-28 15:13:05 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:13:05 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2022-11-28 15:13:05 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:13:05 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 15:13:05 INFO [base.py:28]: flask app init
+2022-11-28 15:13:05 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:13:05 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 15:13:05 INFO [_internal.py:224]:  * Debugger PIN: 303-323-771
+2022-11-28 15:13:17 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:13:17 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:13:17 INFO [decorator.py:59]: / time cost=0.007s
+2022-11-28 15:13:17 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:13:17] "GET / HTTP/1.1" 200 -
+2022-11-28 15:14:43 INFO [base.py:28]: flask app init
+2022-11-28 15:14:43 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:15:06 INFO [base.py:28]: flask app init
+2022-11-28 15:15:06 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:15:21 INFO [base.py:28]: flask app init
+2022-11-28 15:15:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:16:13 INFO [base.py:28]: flask app init
+2022-11-28 15:16:13 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:17:44 INFO [base.py:28]: flask app init
+2022-11-28 15:17:44 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:18:16 INFO [base.py:28]: flask app init
+2022-11-28 15:18:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:18:39 INFO [base.py:28]: flask app init
+2022-11-28 15:18:39 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:19:56 INFO [base.py:28]: flask app init
+2022-11-28 15:19:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:20:21 INFO [base.py:28]: flask app init
+2022-11-28 15:20:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:20:21 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+2022-11-28 15:20:21 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:20:21 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 15:20:21 INFO [base.py:28]: flask app init
+2022-11-28 15:20:21 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:20:21 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 15:20:21 INFO [_internal.py:224]:  * Debugger PIN: 142-078-072
+2022-11-28 15:20:42 INFO [base.py:28]: flask app init
+2022-11-28 15:20:42 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:20:51 INFO [base.py:28]: flask app init
+2022-11-28 15:20:51 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:20:59 INFO [base.py:28]: flask app init
+2022-11-28 15:20:59 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:21:09 INFO [base.py:28]: flask app init
+2022-11-28 15:21:09 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:21:09 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8003
+2022-11-28 15:21:09 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:21:09 INFO [_internal.py:224]:  * Restarting with stat
+2022-11-28 15:21:09 INFO [base.py:28]: flask app init
+2022-11-28 15:21:09 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:21:09 WARNING [_internal.py:224]:  * Debugger is active!
+2022-11-28 15:21:09 INFO [_internal.py:224]:  * Debugger PIN: 142-078-072
+2022-11-28 15:21:55 INFO [base.py:28]: flask app init
+2022-11-28 15:21:55 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:21:55 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8003
+2022-11-28 15:21:55 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:22:01 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:22:01 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:22:01 INFO [decorator.py:59]: / time cost=0.006s
+2022-11-28 15:22:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:22:01] "GET / HTTP/1.1" 200 -
+2022-11-28 15:22:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:22:01] "[32mGET /favicon.ico HTTP/1.1[0m" 302 -
+2022-11-28 15:22:01 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:22:01] "GET /static/favicon.ico HTTP/1.1" 200 -
+2022-11-28 15:22:23 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:22:23 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:22:23 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:22:23 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:22:23 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:22:23 INFO [decorator.py:59]: /notice/describe time cost=0.081s
+2022-11-28 15:22:23 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:22:23] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:23:33 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:23:33 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:23:33 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:23:33 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 15:23:33 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:23:33] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:23:56 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:23:56 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:23:56 INFO [mysql.py:198]: sql: update `notice` set `msg`='这是一则公告' where `id`='1'
+2022-11-28 15:23:56 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:23:56 INFO [decorator.py:59]: /notice/modify time cost=0.006s
+2022-11-28 15:23:56 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:23:56] "GET /notice/modify HTTP/1.1" 200 -
+2022-11-28 15:24:07 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:24:07 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:24:07 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:24:07 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 15:24:07 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:24:07] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:25:58 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:25:58 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:25:58 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:25:58 INFO [decorator.py:59]: /notice/describe time cost=0.004s
+2022-11-28 15:25:58 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:25:58] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:27:02 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:27:02 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:27:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:27:02 INFO [decorator.py:59]: /notice/describe time cost=0.003s
+2022-11-28 15:27:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:27:02] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:28:33 INFO [base.py:28]: flask app init
+2022-11-28 15:28:33 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:29:05 INFO [base.py:28]: flask app init
+2022-11-28 15:29:05 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:29:05 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8003
+2022-11-28 15:29:05 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:29:11 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:29:11 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:29:11 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:29:11 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:29:11 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:29:11 INFO [decorator.py:59]: /notice/describe time cost=0.081s
+2022-11-28 15:29:11 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:29:11] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:32:16 INFO [base.py:28]: flask app init
+2022-11-28 15:32:16 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:32:16 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8003
+ * Running on http://10.0.12.14:8003
+2022-11-28 15:32:16 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:32:19 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:32:19 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:32:19 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:32:19 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:32:19 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:32:19 INFO [decorator.py:59]: /notice/describe time cost=0.141s
+2022-11-28 15:32:19 INFO [_internal.py:224]: 59.37.125.124 - - [28/Nov/2022 15:32:19] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:35:36 INFO [base.py:28]: flask app init
+2022-11-28 15:35:36 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:35:36 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.12.14:8000
+2022-11-28 15:35:36 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:36:14 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:36:14 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:36:14 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:36:15 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:36:15 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:36:15 INFO [decorator.py:59]: /notice/describe time cost=0.075s
+2022-11-28 15:36:15 INFO [_internal.py:224]: 59.37.125.124 - - [28/Nov/2022 15:36:15] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:36:25 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:36:25 INFO [mysql.py:106]: sql: select * from `notice` where `id` = '1' limit 1
+2022-11-28 15:36:25 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:36:25 INFO [decorator.py:59]: /notice/describe time cost=0.002s
+2022-11-28 15:36:25 INFO [_internal.py:224]: 59.37.125.124 - - [28/Nov/2022 15:36:25] "GET /notice/describe HTTP/1.1" 200 -
+2022-11-28 15:56:17 INFO [base.py:28]: flask app init
+2022-11-28 15:56:17 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:56:17 INFO [_internal.py:224]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.12.14:8000
+2022-11-28 15:56:17 INFO [_internal.py:224]: [33mPress CTRL+C to quit[0m
+2022-11-28 15:56:26 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:56:26 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'None' limit 1
+2022-11-28 15:56:26 INFO [mysql.py:42]: {'host': 'gz-cynosdbmysql-grp-8fvlxclb.sql.tencentcdb.com', 'port': 20915, 'user': 'root', 'password': 'Qaz!6666', 'database': 'demo1', 'charset': 'utf8', 'cursorclass': <class 'pymysql.cursors.DictCursor'>}
+2022-11-28 15:56:26 INFO [mysql.py:46]: mysql connect success
+2022-11-28 15:56:26 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:56:26 INFO [decorator.py:59]: /cos/upload time cost=0.221s
+2022-11-28 15:56:26 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:56:26] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 15:56:41 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:56:41 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'p1' limit 1
+2022-11-28 15:56:41 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:56:41 INFO [decorator.py:59]: /cos/upload time cost=0.003s
+2022-11-28 15:56:41 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:56:41] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 15:56:54 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:56:54 ERROR [router.py:83]: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2022-11-28 15:56:54 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:56:54 INFO [decorator.py:59]: /cos/upload time cost=0.001s
+2022-11-28 15:56:54 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:56:54] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 15:57:02 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:57:02 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-28 15:57:02 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:57:02 INFO [decorator.py:59]: /cos/upload time cost=0.004s
+2022-11-28 15:57:02 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:57:02] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 15:57:08 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:57:08 INFO [mysql.py:106]: sql: select * from `user` where `username` = 'q1' limit 1
+2022-11-28 15:57:08 INFO [cos_client.py:268]: generate built-in connection pool success. maxsize=10,10
+2022-11-28 15:57:08 INFO [cos_client.py:421]: put object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/q1 ,headers=:{}
+2022-11-28 15:57:09 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:57:09 INFO [decorator.py:59]: /cos/upload time cost=0.802s
+2022-11-28 15:57:09 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:57:09] "GET /cos/upload HTTP/1.1" 200 -
+2022-11-28 15:57:30 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:57:30 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/ ,headers=:{}, params=:{}
+2022-11-28 15:57:30 ERROR [router.py:83]: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+2022-11-28 15:57:30 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:57:30 INFO [decorator.py:59]: /cos/download time cost=0.429s
+2022-11-28 15:57:30 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:57:30] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 15:57:51 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:57:51 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/q1 ,headers=:{}, params=:{}
+2022-11-28 15:57:51 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:57:51 INFO [decorator.py:59]: /cos/download time cost=0.085s
+2022-11-28 15:57:51 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:57:51] "POST /cos/download HTTP/1.1" 200 -
+2022-11-28 15:58:09 INFO [connection_pool.py:55]: get connection from pool
+2022-11-28 15:58:09 INFO [cos_client.py:474]: get object, url=:https://muusa777-1301264000.cos.ap-nanjing.myqcloud.com/ ,headers=:{}, params=:{}
+2022-11-28 15:58:09 ERROR [router.py:83]: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+2022-11-28 15:58:09 INFO [connection_pool.py:43]: put connection into pool
+2022-11-28 15:58:09 INFO [decorator.py:59]: /cos/download time cost=0.485s
+2022-11-28 15:58:09 INFO [_internal.py:224]: 127.0.0.1 - - [28/Nov/2022 15:58:09] "POST /cos/download HTTP/1.1" 200 -
