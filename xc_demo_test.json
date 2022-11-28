@@ -1,0 +1,261 @@
+{
+	"info": {
+		"_postman_id": "f507c85e-14b4-49e3-9a50-fcb0fb8e1356",
+		"name": "XCDemo1.0",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "登录获取token",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\":\"q1\",\n    \"password\":\"q1\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/token/user/login",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"token",
+						"user",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "修改公告",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Token",
+						"value": "d3b161b3110426bec9bd88b52a13bfde",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"msg\":\"这是一则公告\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://1.12.66.188:8000/notice/modify",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"notice",
+						"modify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "查询公告",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://1.12.66.188:8000/notice/describe",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"notice",
+						"describe"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "生成订单ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://1.12.66.188:8000/order/new_order_id",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"order",
+						"new_order_id"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "上传文件",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\":\"q1\",\n    \"password\":\"q1\",\n    \"data\":\"dsddddss\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://1.12.66.188:8000/cos/upload",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"cos",
+						"upload"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "下载文件",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/order/new_order_id",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"order",
+						"new_order_id"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "添加兑换码",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"gift_code\":\"vip999\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://1.12.66.188:8000/gift/new_code",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"gift",
+						"new_code"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "使用兑换码",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"gift_code\":\"vip666\",\n    \"username\":\"q1\",\n    \"password\":\"q1\"\n\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://1.12.66.188:8000/gift/get_gift",
+					"protocol": "http",
+					"host": [
+						"1",
+						"12",
+						"66",
+						"188"
+					],
+					"port": "8000",
+					"path": [
+						"gift",
+						"get_gift"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
